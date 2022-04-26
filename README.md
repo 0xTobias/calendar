@@ -1,4 +1,4 @@
-##Calendar
+## Calendar
 
 Calendar offers a descentralized way to manage your calendar and invite friends to events.
 
