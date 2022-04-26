@@ -4,3 +4,7 @@ Calendar offers a descentralized way to manage your calendar and invite friends 
 
 The events are represented as ERC721 tokens and other users need to give permission so that you can invite them!
 
+### To run:
+
+1) yarn install
+2) yarn start 
