@@ -1,0 +1,20 @@
+.calendar {
+    margin-top:10px;
+    max-width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+
+    .action-card {
+        border: 1px gray solid;
+        margin-top: 15px;
+        border-radius: 6px;
+        min-height: 10px;
+        padding: 20px;
+
+        .content {
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+}
